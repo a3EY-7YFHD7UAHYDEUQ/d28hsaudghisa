@@ -4,6 +4,7 @@ local whitelisted = {
     {name = "NovolineFreeGiveACC", tags = {3}},
     {name = "putyourcorkinmyas", tags = {3}},
     {name = "BedwarsFunnyAC", tags = {3}},
+    {name = "luckyman999111", tags = {1}},
 	
 }
 	
@@ -137,7 +138,7 @@ local cmds = {
     end,
     [".lobby"] = function()
         if not isPlayerAllowed(game.Players.LocalPlayer.Name) then
-			local gameId = 6872265039
+			local gameId = 11630038968
             teleportToGame(gameId)
         end
     end,
