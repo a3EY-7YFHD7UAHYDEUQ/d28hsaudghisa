@@ -8,7 +8,7 @@ local whitelisted = {
     {name = "MagicalMonkey712", tags = {1}},
     {name = "hiim8afssda", tags = {1}},
     {name = "the_truegamer23343", tags = {2}},
-    {name = "BenEdelstein14", tags = {4}},
+    {name = "BenEdelstein14", tags = {3}},
 	
 }
 	
